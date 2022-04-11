@@ -1,0 +1,94 @@
+{
+
+"zaymi":"Займы",
+"zaymi_disclaimer":"Оставьте заявку в 3-4 компании, чтобы увеличить шанс одобрения",
+"more_button":"Подробнее",
+"request":"Оформить",
+
+"offer":[
+	{
+
+		"imageURL":"",
+		"offerTitle":"",
+		"rating":"",
+		"sumString":"",
+		"sumValue":"",
+		"betString":"",
+		"betValue":"",
+		"moreInfo":"",
+		"sub":"1",
+		"isAvailableState":true
+	},
+		{
+
+		"imageURL":"",
+		"offerTitle":"",
+		"rating":"",
+		"sumString":"",
+		"sumValue":"",
+		"betString":"",
+		"betValue":"",
+		"moreInfo":"",
+		"sub":"1",
+		"isAvailableState":false
+	},
+		{
+
+		"imageURL":"",
+		"offerTitle":"",
+		"rating":"",
+		"sumString":"",
+		"sumValue":"",
+		"betString":"",
+		"betValue":"",
+		"moreInfo":"",
+		"sub":"1",
+		"isAvailableState":false
+	},
+		{
+
+		"imageURL":"",
+		"offerTitle":"",
+		"rating":"",
+		"sumString":"",
+		"sumValue":"",
+		"betString":"",
+		"betValue":"",
+		"moreInfo":"",
+		"sub":"1",
+		"isAvailableState":false
+	},
+		{
+
+		"imageURL":"",
+		"offerTitle":"",
+		"rating":"",
+		"sumString":"",
+		"sumValue":"",
+		"betString":"",
+		"betValue":"",
+		"moreInfo":"",
+		"sub":"1",
+		"isAvailableState":false
+	},
+		{
+
+		"imageURL":"",
+		"offerTitle":"",
+		"rating":"",
+		"sumString":"",
+		"sumValue":"",
+		"betString":"",
+		"betValue":"",
+		"moreInfo":"",
+		"sub":"1",
+		"isAvailableState":false
+	},
+	
+
+],
+
+"link":"http://185.240.102.104/Hg8184"
+
+
+}
